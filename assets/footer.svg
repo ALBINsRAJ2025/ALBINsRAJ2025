@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" role="img" aria-label="Thanks for visiting">
+  <rect width="800" height="140" fill="none"/>
+  <g><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="9s" repeatCount="indefinite"/><path d="M0,62 Q100.0,34 200.0,62 Q300.0,90 400.0,62 Q500.0,34 600.0,62 Q700.0,90 800.0,62 Q900.0,34 1000.0,62 Q1100.0,90 1200.0,62 Q1300.0,34 1400.0,62 Q1500.0,90 1600.0,62 Q1700.0,34 1800.0,62 L1800.0,140 L0,140 Z" fill="#3DDC84" fill-opacity="0.18"/></g><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="6s" repeatCount="indefinite"/><path d="M0,74 Q100.0,52 200.0,74 Q300.0,96 400.0,74 Q500.0,52 600.0,74 Q700.0,96 800.0,74 Q900.0,52 1000.0,74 Q1100.0,96 1200.0,74 Q1300.0,52 1400.0,74 Q1500.0,96 1600.0,74 Q1700.0,52 1800.0,74 L1800.0,140 L0,140 Z" fill="#3DDC84" fill-opacity="0.3"/></g><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="4s" repeatCount="indefinite"/><path d="M0,88 Q100.0,70 200.0,88 Q300.0,106 400.0,88 Q500.0,70 600.0,88 Q700.0,106 800.0,88 Q900.0,70 1000.0,88 Q1100.0,106 1200.0,88 Q1300.0,70 1400.0,88 Q1500.0,106 1600.0,88 Q1700.0,70 1800.0,88 L1800.0,140 L0,140 Z" fill="#0B7A5A" fill-opacity="0.85"/></g>
+  <text x="400.0" y="52" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#b9ffd9">
+    Thanks for visiting — keep building, keep flashing.
+    <animate attributeName="opacity" values=".65;1;.65" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>

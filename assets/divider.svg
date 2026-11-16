@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="12" viewBox="0 0 800 12" role="presentation">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#3DDC84" stop-opacity="0"/><stop offset=".5" stop-color="#3DDC84" stop-opacity=".85"/><stop offset="1" stop-color="#3DDC84" stop-opacity="0"/></linearGradient>
+    <filter id="b"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <rect x="0" y="5" width="800" height="2" rx="1" fill="url(#l)"/>
+  <circle cy="6" r="5" fill="#3DDC84" filter="url(#b)">
+    <animate attributeName="cx" values="30;770;30" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".4 0 .6 1;.4 0 .6 1"/>
+  </circle>
+  <circle cy="6" r="2.5" fill="#d8ffe9">
+    <animate attributeName="cx" values="30;770;30" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".4 0 .6 1;.4 0 .6 1"/>
+  </circle>
+</svg>
